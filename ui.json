@@ -4,8 +4,8 @@
     "menuEntries": [
         {
         "label": "Hello World",
-        "menu": "start/myPlugins",
-        "urlKey": "hello-world",
+        "menu": "start",
+        "urlKey": "myPlugins/hello-world",
         "entryPoint": "index.html"
         }
     ]
